@@ -1,2 +1,0 @@
-# phantrang
-Phân Trang JS
